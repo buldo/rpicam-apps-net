@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35716.79 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpegCapture", "JpegCapture\JpegCapture.csproj", "{FCD06BAC-2B6B-44AB-9706-7A5972158858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD06BAC-2B6B-44AB-9706-7A5972158858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD06BAC-2B6B-44AB-9706-7A5972158858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD06BAC-2B6B-44AB-9706-7A5972158858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD06BAC-2B6B-44AB-9706-7A5972158858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1B764F8-4773-4A62-86FE-28807D15F77B}
+	EndGlobalSection
+EndGlobal
