@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Bld.LibcameraNet" Version="0.3.2.1" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.6" />
+    <PackageReference Include="System.Threading.Channels" Version="9.0.1" />
+  </ItemGroup>
+
 </Project>
