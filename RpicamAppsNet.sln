@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35716.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpegCapture", "JpegCapture\JpegCapture.csproj", "{FCD06BAC-2B6B-44AB-9706-7A5972158858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmrPreview", "DmrPreview\DmrPreview.csproj", "{C9A3B8D0-649A-406A-A67B-58068DF13006}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrmPreview", "DrmPreview\DrmPreview.csproj", "{C9A3B8D0-649A-406A-A67B-58068DF13006}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
