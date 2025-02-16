@@ -1,10 +1,10 @@
-﻿namespace DmrPreview
+﻿namespace DrmPreview
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var drmPreview = new DrmPreview();
         }
     }
 }
